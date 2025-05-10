@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BetSample</string>
+
+    <string name="bottom_navigation_bar_list">List</string>
+    <string name="bottom_navigation_bar_cart">Cart</string>
+
+    <string name="main_list_search">Search</string>
+    <string name="cart_list_clear">Clear</string>
+    <string name="cart_list_total_amount">Total Amount: %1$s</string>
+
+    <string name="main_list_no_event_found">No events found</string>
+    <string name="main_list_no_detail_found">No detail found</string>
+    <string name="cart_list_no_bet_found">No bets found</string>
+</resources>
